@@ -11,7 +11,7 @@ Generates Tokens based on Lexemes. It also finds out Lexical Errors.
 
 `Syntax & Semantics Analyzer (YACC/Bison)`
 
-Parses the tokens from the Lexical Analyzer based on the Grammar rules. Report some Syntax & Semantic Errors.
+Parses the tokens from the Lexical Analyzer based on the Grammar rules. Reports some Syntax & Semantic Errors.
 
 `Intermediate Code Generation`
 
